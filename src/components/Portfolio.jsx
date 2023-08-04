@@ -14,7 +14,7 @@ const Portfolio = () => {
       id: 1,
       src: login,
       demolink:"https://soumyadeep0125.github.io/login-and-signup-page/",
-      githublink:"https://github.com/Soumyadeep0125/login-and-signup-page",
+      githublink:"https://github.com/Soumyadeep0125/login-and-signup-page"
     },
     {
       id: 2,
