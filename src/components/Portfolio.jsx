@@ -4,6 +4,9 @@ import quiz from "../assets/portfolio/quiz.jpg";
 import app from "../assets/portfolio/app.jpg";
 import ecommerce from "../assets/portfolio/ecommerce.jpg";
 import bookshelf from "../assets/portfolio/bookshelf.jpg";
+import spotify from "../assets/portfolio/spotify.jpg";
+import gemini from "../assets/portfolio/gemini.jpg";
+
 
 
 
@@ -13,8 +16,8 @@ const Portfolio = () => {
     {
       id: 1,
       src: login,
-      demolink:"",
-      githublink:"",
+      demolink:"https://soumyadeep0125.github.io/login-and-signup-page/",
+      githublink:"https://github.com/Soumyadeep0125/login-and-signup-page",
     },
     {
       id: 2,
@@ -40,7 +43,18 @@ const Portfolio = () => {
       demolink:"https://book-shelf-pro.netlify.app/",
       githublink:"https://github.com/Soumyadeep0125/Book-shelf-frontend"
     },
-    
+    {
+      id: 6,
+      src: gemini,
+      demolink:"https://gemini-clone-pro.netlify.app/",
+      githublink:"https://github.com/Soumyadeep0125/Gemini-Clone"
+    },
+    {
+      id: 7,
+      src: spotify,
+      demolink:"https://spotify-clonepro.netlify.app/",
+      githublink:"https://github.com/Soumyadeep0125/Spotify-Clone"
+    },
   ];
 
   return (
