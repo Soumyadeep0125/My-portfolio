@@ -6,6 +6,7 @@ import ecommerce from "../assets/portfolio/ecommerce.jpg";
 import bookshelf from "../assets/portfolio/bookshelf.jpg";
 import spotify from "../assets/portfolio/spotify.jpg";
 import gemini from "../assets/portfolio/gemini.jpg";
+import weather from "../assets/portfolio/weather.jpg";
 
 
 
@@ -54,6 +55,12 @@ const Portfolio = () => {
       src: spotify,
       demolink:"https://spotify-clonepro.netlify.app/",
       githublink:"https://github.com/Soumyadeep0125/Spotify-Clone"
+    },
+    {
+      id: 8,
+      src: weather,
+      demolink:"https://weather-webapp-pro.netlify.app/",
+      githublink:"https://github.com/Soumyadeep0125/Weather-App"
     },
   ];
 
